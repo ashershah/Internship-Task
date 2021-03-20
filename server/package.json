@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node appp.js",
-    "devStart": "nodemon app.js"
+    "devStart": "nodemon index.js"
   },
   "author": "",
   "license": "ISC",
